@@ -1,0 +1,5 @@
+{
+  "name": "AI Shopping List",
+  "description": "A simple and smart shopping list application powered by Gemini. Get instant suggestions for your recipes or meal plans and keep your shopping organized.",
+  "requestFramePermissions": []
+}
