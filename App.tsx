@@ -1,7 +1,6 @@
-
 import React, { useState, useEffect, useCallback } from 'react';
 import { ShoppingListItem as ShoppingListItemType } from './types';
-import { getShoppingSuggestions } from './services/geminiService';
+import { getShoppingSuggestions } from './services/geminiService.ts';
 import AddItemForm from './components/AddItemForm';
 import ShoppingList from './components/ShoppingList';
 import Header from './components/Header';
